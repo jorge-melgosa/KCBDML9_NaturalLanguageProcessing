@@ -14,6 +14,6 @@ Partes a resolver dentro de la actividad:
 No se busca que los modelos tengan un performance (precision, recall, f1-score, ...) excelente, sino que los pasos que se propongan para resolver los ejercicios sean razonables (acorde a lo visto en la asignatura) y estén justificados. Es importante también comentar los resultados obtenidos.
 
 ### Resumen de la implementación:
-Hemos realizado la tarea en [Google Colab](https://colab.research.google.com/) llamado [Practica_npl_JorgeMelgosa_Mel.ipynb](https://github.com/jorge-melgosa/KCBDML9_DeepLearning/blob/main/Practica_npl_JorgeMelgosa_Mel.ipynb)
+Hemos realizado la tarea en [Google Colab](https://colab.research.google.com/) llamado [Practica_npl_JorgeMelgosa_Mel.ipynb](https://github.com/jorge-melgosa/KCBDML9_NaturalLanguageProcessing/blob/main/Practica_npl_JorgeMelgosa_Mel.ipynb)
 
 El colab tiene toda la información necesaria para entender el desarrollo realizado con el objetivo de realizar la practica planteada. 
